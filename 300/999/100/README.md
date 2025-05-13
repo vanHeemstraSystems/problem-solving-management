@@ -24,4 +24,12 @@ Empathy serves as the guiding compass for problem mapping. It helps us in compre
 
 See [README.md](./300/README.md).
 
+## 400 - The Second Step: Clustering Problems
+
+See [README.md](./400/README.md).
+
+## 500 - The Third Step: Crafting Powerful Problem Statements: What Problem for Whom?
+
+See [README.md](./500/README.md).
+
 MORE ...
