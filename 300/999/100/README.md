@@ -32,4 +32,8 @@ See [README.md](./400/README.md).
 
 See [README.md](./500/README.md).
 
+## 600 - The Fourth Step: Identifying Symptoms
+
+See [README.md](./600/README.md).
+
 MORE ...
