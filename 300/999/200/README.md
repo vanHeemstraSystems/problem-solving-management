@@ -1,5 +1,7 @@
 # 200 - Reframing Complicated Questions Design Guide
 
+Based on [Reframing Complicated Questions Design Guide](https://www.overlapassociates.com/ideas/design-guide-reframing-complicated-questions)
+
 > In the dynamic landscape of organizational challenges, some problems are straightforward, while others seem almost impossible to solve.
 
 Brenda Zimmerman, a renowned scholar on complexity, introduced the concept of complicated versus wicked problems. Understanding the differences between these two types of problems can provide invaluable insights for organizations seeking effective solutions.
