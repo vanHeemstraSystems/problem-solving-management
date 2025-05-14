@@ -22,6 +22,9 @@ lot of steps, a lot of people, perfect weather conditions on the day of launch, 
 
 ## 400 - Complexity in Organizational Problems
 
+Organizations frequently encounter wicked problems due to their intricate structures, diverse stakeholders, and ever-changing environments. Issues like employee engagement, improving company
+culture, or fostering innovation often fall into the category of wicked problems. These problems resist simple fixes and require holistic approaches that embrace the complexity of human interactions, values, and goals.
 
+We often reduce problems to very narrow “complicated questions”. The nature of the question suggests an answer is clear-cut and would produce steps to reach a solution. But how often have you thought, *“yeah, but … ?”*
 
 ## 500 - Embracing Wickedness for Success
