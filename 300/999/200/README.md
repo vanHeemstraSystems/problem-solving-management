@@ -10,4 +10,4 @@ Issues like employee engagement, improving company culture, or fostering innovat
 
 Learning to reframe complicated problems into wicked or complex questions allows us to look at these issues through a human-centred lens, and leads to better solutions along the way.
 
-See the [Design Guide]().
+See the [Design Guide - Reframing Complicated Questions from Overlap.pdf](https://github.com/user-attachments/files/20202739/Design.Guide.-.Reframing.Complicated.Questions.from.Overlap.pdf).
