@@ -28,3 +28,10 @@ culture, or fostering innovation often fall into the category of wicked problems
 We often reduce problems to very narrow “complicated questions”. The nature of the question suggests an answer is clear-cut and would produce steps to reach a solution. But how often have you thought, *“yeah, but … ?”*
 
 ## 500 - Embracing Wickedness for Success
+
+To tackle wicked problems, organizations must embrace the wickedness and collaborate across departments and hierarchies. Engaging diverse perspectives, encouraging open dialogue, and involving
+stakeholders at all levels can lead to innovative and inclusive solutions. And, I get it. It can feel hard to make space for all of the “yeah, but’s”, however, recognize the gift of seeing some complexity before you begin looking for solutions. Our wicked problems—the ones that hang around and defy getting solved—benefit from reframing the question you’re asking and will deliver a different result. We move resources toward the questions we’re preoccupied with.
+
+As organizations face ever-evolving challenges, understanding the difference between complicated and wicked problems becomes crucial. Brenda Zimmerman's work on complexity helps us recognize the
+unique nature of wicked problems and the need for creative approaches to address them. By reframing workplace problem questions into wicked problem questions, organizations can harness the power of
+diverse perspectives, foster innovation, and find more effective solutions to navigate the complex terrain of organizational challenges.
