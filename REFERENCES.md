@@ -1,6 +1,7 @@
 # References
 
 - [Embracing Complexity, Connectivity, and Change](https://www.youtube.com/watch?v=F310ieRmd3U)
+- [The nine principles of working with complexity](https://socialinnovation.org/news/2015/02/20/farewell-to-the-late-brenda-zimmerman/)
 - [Dragon Master](https://dragonmaster.imd.org/)
 - ["Solvable" by Arnaud Chevallier](https://powerful-problem-solving.com/)
 - ["Agile decision-making – deciding when you don’t have all the facts" by Arnaud Chevallier](https://www.youtube.com/watch?v=zxsG4-JJj6c)
