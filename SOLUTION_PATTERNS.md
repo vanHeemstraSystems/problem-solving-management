@@ -20,25 +20,26 @@ It’s the ability to understand core concepts, recognize recurring problem type
 
 Heuristics:
 
-Write + Spike: Queue
-Latency + Global: CDN
-Load + Growth: Scale Out
-Read + Bottleneck: Cache
-Requests + Spike: Throttle
-Retry + Safety: Idempotent
-Core + Failure: Redundancy
-Dataset + Growth: Sharding
-Text + Search: Inverted Index
-Upload + Large-file: Chunking
-Durability + Failure: Replication
-Broadcast + Realtime: Pub/Sub
-Location + Search: Geohashing
-Write + Conflict: Optimistic Lock
-Untrusted + Execution: Container
-Realtime + Updates: WebSockets
-Traffic + Reliability: Load Balancer
-Distributed + Transaction: Saga pattern
-Concurrency + Consistency: Row locking
+- Write + Spike: Queue<br/>
+- Latency + Global: CDN<br/>
+- Load + Growth: Scale Out<br/>
+- Read + Bottleneck: Cache<br/>
+- Requests + Spike: Throttle<br/>
+- Retry + Safety: Idempotent<br/>
+- Core + Failure: Redundancy<br/>
+- Dataset + Growth: Sharding<br/>
+- Text + Search: Inverted Index<br/>
+- Upload + Large-file: Chunking<br/>
+- Durability + Failure: Replication<br/>
+- Broadcast + Realtime: Pub/Sub<br/>
+- Location + Search: Geohashing<br/>
+- Write + Conflict: Optimistic Lock<br/>
+- Untrusted + Execution: Container<br/>
+- Realtime + Updates: WebSockets<br/>
+- Traffic + Reliability: Load Balancer<br/>
+- Distributed + Transaction: Saga pattern<br/>
+- Concurrency + Consistency: Row locking<br/>
+
 Interview Questions:
 
 Design a search system: Search engines, Web crawlers
